@@ -1,0 +1,27 @@
+{
+    "name": "pxt-palette_corrector",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3"
+    },
+    "files": [
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "remapper.ts"
+    ],
+    "testFiles": [
+        "main.ts",
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.61",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
